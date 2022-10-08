@@ -7,3 +7,4 @@ elif user_input == "Samosa"
     print('Somosa')
 else:
     print('fries")
+    print('cake')
