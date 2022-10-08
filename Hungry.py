@@ -6,4 +6,4 @@ if user_input == "pizza':
 elif user_input == "Samosa"
     print('Somosa')
 else:
-    pass
+    print("fries")
